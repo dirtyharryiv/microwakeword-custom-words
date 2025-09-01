@@ -3,7 +3,7 @@
   "wake_word": "Hey Bender",
   "author": "dirtyharryiv",
   "website": "https://github.com/dirtyharryiv",
-  "model": "https://raw.githubusercontent.com/dirtyharryiv/microwakeword-custom-words/refs/heads/main/models/hey_bender.tflite",
+  "model": "https://github.com/dirtyharryiv/microwakeword-custom-words/raw/refs/heads/main/hey_bender.tflite",
   "version": 2,
   "trained_languages": ["en"],
   "micro": {
@@ -13,4 +13,5 @@
     "tensor_arena_size": 22860,
     "minimum_esphome_version": "2024.7.0"
   }
+
 }
